@@ -1,2 +1,1 @@
-# gamesdk
-xinkuai game sdk
+#新快游戏SDK接入指南
